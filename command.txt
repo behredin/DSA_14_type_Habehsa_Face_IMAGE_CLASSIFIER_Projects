@@ -1,0 +1,1 @@
+streamlit run "F:/New chapter/PG/DSA/EMOTION/bmanimage/Image_Classifier_app.py"
